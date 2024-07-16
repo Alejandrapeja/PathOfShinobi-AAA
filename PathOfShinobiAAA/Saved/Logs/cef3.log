@@ -1,1 +1,2 @@
-[0503/182523.384:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0712/083949.984:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[0712/084151.883:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled

@@ -1,2 +1,5 @@
-2024/05/03-18:23:25.226 28cc Creating DB E:/GitHub repositorios/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/05/03-18:23:25.473 28cc Reusing MANIFEST E:/GitHub repositorios/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/12-08:39:57.205 3120 Creating DB C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2024/07/12-08:39:57.663 3120 Reusing MANIFEST C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/12-10:17:07.696 3af4 Level-0 table #5: started
+2024/07/12-10:17:07.781 3af4 Level-0 table #5: 16832 bytes OK
+2024/07/12-10:17:07.839 3af4 Delete type=0 #3

@@ -1,0 +1,8 @@
+2024/07/12-08:42:26.008 39cc Reusing MANIFEST C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/12-08:42:26.009 39cc Recovering log #4
+2024/07/12-08:42:26.009 39cc Reusing old log C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/07/12-08:46:14.100 124c Level-0 table #8: started
+2024/07/12-08:46:14.100 124c Level-0 table #8: 0 bytes OK
+2024/07/12-08:46:14.149 124c Delete type=0 #4
+2024/07/12-08:46:14.149 124c Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/12-08:46:14.150 124c Manual compaction at level-1 from (begin) .. (end); will stop at (end)

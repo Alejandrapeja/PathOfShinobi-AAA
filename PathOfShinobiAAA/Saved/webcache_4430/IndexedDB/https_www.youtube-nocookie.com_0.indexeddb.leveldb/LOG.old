@@ -1,0 +1,6 @@
+2024/07/12-08:41:22.584 40b8 Creating DB C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
+2024/07/12-08:41:22.746 40b8 Reusing MANIFEST C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/12-08:42:25.282 40b8 Level-0 table #5: started
+2024/07/12-08:42:25.351 40b8 Level-0 table #5: 1167 bytes OK
+2024/07/12-08:42:25.398 40b8 Delete type=0 #3
+2024/07/12-08:42:25.413 40b8 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
