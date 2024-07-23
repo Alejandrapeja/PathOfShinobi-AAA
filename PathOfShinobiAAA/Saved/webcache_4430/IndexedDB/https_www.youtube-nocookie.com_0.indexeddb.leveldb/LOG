@@ -1,0 +1,15 @@
+2024/07/22-23:16:15.921 ba0 Reusing MANIFEST C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/07/22-23:16:15.922 ba0 Recovering log #4
+2024/07/22-23:16:15.922 ba0 Reusing old log C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2024/07/22-23:30:12.493 2464 Level-0 table #8: started
+2024/07/22-23:30:12.551 2464 Level-0 table #8: 547 bytes OK
+2024/07/22-23:30:12.613 2464 Delete type=0 #4
+2024/07/22-23:30:12.613 2464 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/07/22-23:30:12.614 2464 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 60 : 1
+2024/07/22-23:30:12.614 2464 Compacting 1@1 + 1@2 files
+2024/07/22-23:30:12.690 2464 Generated table #9@1: 17 keys, 515 bytes
+2024/07/22-23:30:12.690 2464 Compacted 1@1 + 1@2 files => 515 bytes
+2024/07/22-23:30:12.745 2464 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/07/22-23:30:12.747 2464 Delete type=2 #5
+2024/07/22-23:30:12.747 2464 Delete type=2 #8
+2024/07/22-23:30:12.748 2464 Manual compaction at level-1 from '\x00\x01\x01\x02\x01\x16\x00y\x00t\x00-\x00i\x00d\x00b\x00-\x00t\x00e\x00s\x00t\x00-\x00d\x00o\x00-\x00n\x00o\x00t\x00-\x00u\x00s\x00e' @ 60 : 1 .. (end); will stop at (end)

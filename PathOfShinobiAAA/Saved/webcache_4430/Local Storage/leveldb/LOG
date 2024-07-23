@@ -1,2 +1,6 @@
-2024/05/03-18:23:25.226 28cc Creating DB E:/GitHub repositorios/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\Local Storage\leveldb since it was missing.
-2024/05/03-18:23:25.473 28cc Reusing MANIFEST E:/GitHub repositorios/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/22-23:14:04.979 3b50 Reusing MANIFEST C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2024/07/22-23:14:05.011 3b50 Recovering log #3
+2024/07/22-23:14:05.012 3b50 Reusing old log C:/Users/Feli22/Documents/GitHub/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2024/07/22-23:34:50.048 1668 Level-0 table #5: started
+2024/07/22-23:34:50.401 1668 Level-0 table #5: 19517 bytes OK
+2024/07/22-23:34:50.571 1668 Delete type=0 #3
