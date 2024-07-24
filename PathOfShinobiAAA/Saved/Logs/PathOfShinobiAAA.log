@@ -2491,3 +2491,14 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.07.24-20.13.54:880][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
 [2024.07.24-20.13.54:985][110]LogPlayLevel: Display: Destroying online subsystem :Context_41
 [2024.07.24-20.13.57:231][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.07.24-20.18.10:830][885]BlueprintLog: New page: Compile BP_EnemyBase
+[2024.07.24-20.18.11:265][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2024.07.24-20.18.12:240][906]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.24-20.18.12:333][906]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.18.12:507][906]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemies/BP_EnemyBase" FILE="../../../../../../GitHub Projects/PathOfShinobi-AAA/PathOfShinobiAAA/Content/Enemies/BP_EnemyBase.uasset" SILENT=true
+[2024.07.24-20.18.12:550][906]LogSavePackage: Moving output files for package: /Game/Enemies/BP_EnemyBase
+[2024.07.24-20.18.12:552][906]LogSavePackage: Moving '../../../../../../GitHub Projects/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/BP_EnemyBase6AD4C61542F4131573DE31897E5687EA.tmp' to '../../../../../../GitHub Projects/PathOfShinobi-AAA/PathOfShinobiAAA/Content/Enemies/BP_EnemyBase.uasset'
+[2024.07.24-20.18.12:562][906]LogFileHelpers: InternalPromptForCheckoutAndSave took 322 ms (total: 2.13 sec)
+[2024.07.24-20.18.12:567][906]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2024.07.24-20.18.12:567][906]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemies/BP_EnemyBase.BP_EnemyBase
+[2024.07.24-20.18.14:296][  3]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
