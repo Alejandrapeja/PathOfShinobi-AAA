@@ -1638,3 +1638,450 @@ LogConfig: Set CVar [[r.setres:1280x720]]
 [2024.07.24-19.08.56:971][242]LogFileHelpers: InternalPromptForCheckoutAndSave took 179 ms (total: 581 ms)
 [2024.07.24-19.08.56:976][242]AssetCheck: New page: Asset Save: TestMapEnemies
 [2024.07.24-19.08.56:976][242]LogContentValidation: Display: Validating /Script/Engine.World /Game/Enemies/TestMapEnemies.TestMapEnemies
+[2024.07.24-20.04.11:925][264]LogDerivedDataCache: C:/Users/aleja/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:34.292 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 17584 files in 19653 folders with total size 3506 MiB.
+[2024.07.24-20.05.45:645][608]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.24-20.05.45:714][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.24-20.05.45:714][608]PIE: New page: PIE session: TestMapEnemies (24 jul. 2024 9:05:45)
+[2024.07.24-20.05.45:714][608]LogPlayLevel: Creating play world package: /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.05.45:725][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010719s)
+[2024.07.24-20.05.45:725][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemies/TestMapEnemies.TestMapEnemies to /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies (0.010794s)
+[2024.07.24-20.05.45:756][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2024.07.24-20.05.45:758][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.05.45:758][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.05.45:759][608]LogAIModule: Creating AISystem for world TestMapEnemies
+[2024.07.24-20.05.45:759][608]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2024.07.24-20.05.45:759][608]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.07.24-20.05.45:759][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.24-20.05.45:759][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.24-20.05.45:759][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.24-20.05.45:759][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.24-20.05.45:759][608]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.24-20.05.45:759][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.24-20.05.45:759][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.24-20.05.45:759][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.24-20.05.45:760][608]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.24-20.05.45:760][608]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.24-20.05.45:760][608]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.24-20.05.45:762][608]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.24-20.05.45:781][608]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.24-20.05.45:781][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.24-20.05.45:781][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.24-20.05.45:781][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.24-20.05.45:782][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.07.24-20.05.45:782][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.07.24-20.05.45:784][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.07.24-20.05.45:784][608]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.07.24-20.05.45:784][608]LogInit: FAudioDevice initialized with ID 4.
+[2024.07.24-20.05.45:784][608]LogAudio: Display: Audio Device (ID: 4) registered with world 'TestMapEnemies'.
+[2024.07.24-20.05.45:784][608]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.24-20.05.45:789][608]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.24-20.05.45:802][608]LogWorld: Bringing World /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies up for play (max tick rate 60) at 2024.07.24-14.05.45
+[2024.07.24-20.05.45:810][608]LogWorld: Bringing up level for play took: 0.020623
+[2024.07.24-20.05.45:812][608]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.07.24-20.05.45:826][608]LogBlueprintUserMessages: [BP_CharAle_C_0] 2600.0
+[2024.07.24-20.05.45:826][608]PIE: Server logged in
+[2024.07.24-20.05.45:827][608]PIE: Play in editor total start time 0,17 seconds.
+[2024.07.24-20.05.45:914][608]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.05.46:406][633]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Ale/BP_CharAle.BP_CharAle_C:ExecuteUbergraph_BP_CharAle'!
+[2024.07.24-20.05.46:406][633]LogScript: Warning: Script Msg called by: BP_CharAle_C /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies:PersistentLevel.BP_CharAle_C_0
+[2024.07.24-20.05.46:908][663]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.05.51:073][912]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.05.51:173][918]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.05.51:173][918]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: ================================================
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Total job queries 39, among them cache hits 8 (20.51%)
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Tracking 31 distinct input hashes that result in 30 distinct outputs (96.77%)
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: RAM used: 850,11 KiB of 1,60 GiB budget. Usage: 0.05%
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Jobs assigned 1, completed 1 (100%)
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Time job spent in pending queue: average 0.00 s, longest 0.00 s
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Job execution time: average 0.83 s, max 0.83 s
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Job life time (pending + execution): average 0.83 s, max 0.83
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Shader code size: average 66,203 KiB, min 66,203 KiB, max 66,203 KiB
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.83 s
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Jobs were issued in 1 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Average processing rate: 1.21 jobs/sec
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Total thread time: 0,337 s
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Total thread preprocess time: 0,057 s
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Percentage time preprocessing: 17.03%
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Effective parallelization: 0.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 100.00% of total time (compiled    1 times, average 0.34 sec, max 0.34 sec, min 0.34 sec)
+[2024.07.24-20.05.51:188][918]LogShaderCompilers: Display: ================================================
+[2024.07.24-20.05.53:502][ 54]LogBlueprintUserMessages: [AIC_EnemyBase_C_0] Sense Sight
+[2024.07.24-20.05.55:872][196]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.05.55:872][196]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.05.57:288][281]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.05.57:288][281]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.03:538][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.06.03:538][651]LogWorld: BeginTearingDown for /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.06.03:538][651]LogWorld: UWorld::CleanupWorld for TestMapEnemies, bSessionEnded=true, bCleanupResources=true
+[2024.07.24-20.06.03:539][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.06.03:543][651]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.24-20.06.03:548][651]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.06.03:563][651]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.06.03:564][651]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.07.24-20.06.03:564][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.24-20.06.03:568][651]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.07.24-20.06.03:577][651]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.07.24-20.06.03:687][652]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.07.24-20.06.04:992][727]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.24-20.06.05:024][727]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.24-20.06.05:024][727]PIE: New page: PIE session: TestMapEnemies (24 jul. 2024 9:06:05)
+[2024.07.24-20.06.05:024][727]LogPlayLevel: Creating play world package: /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.06.05:032][727]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007181s)
+[2024.07.24-20.06.05:032][727]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemies/TestMapEnemies.TestMapEnemies to /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies (0.007227s)
+[2024.07.24-20.06.05:051][727]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.07.24-20.06.05:053][727]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.06.05:053][727]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.06.05:054][727]LogAIModule: Creating AISystem for world TestMapEnemies
+[2024.07.24-20.06.05:054][727]LogPlayLevel: PIE: World Init took: (0.001164s)
+[2024.07.24-20.06.05:054][727]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2024.07.24-20.06.05:054][727]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.24-20.06.05:054][727]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.24-20.06.05:054][727]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.24-20.06.05:054][727]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.24-20.06.05:054][727]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.24-20.06.05:054][727]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.24-20.06.05:054][727]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.24-20.06.05:054][727]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.24-20.06.05:055][727]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.24-20.06.05:055][727]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.24-20.06.05:055][727]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.24-20.06.05:057][727]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.24-20.06.05:075][727]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.24-20.06.05:075][727]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.24-20.06.05:075][727]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.24-20.06.05:075][727]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.24-20.06.05:077][727]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2024.07.24-20.06.05:077][727]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2024.07.24-20.06.05:078][727]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2024.07.24-20.06.05:078][727]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2024.07.24-20.06.05:078][727]LogInit: FAudioDevice initialized with ID 5.
+[2024.07.24-20.06.05:078][727]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestMapEnemies'.
+[2024.07.24-20.06.05:078][727]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.24-20.06.05:081][727]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.24-20.06.05:093][727]LogWorld: Bringing World /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies up for play (max tick rate 60) at 2024.07.24-14.06.05
+[2024.07.24-20.06.05:100][727]LogWorld: Bringing up level for play took: 0.018899
+[2024.07.24-20.06.05:102][727]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.07.24-20.06.05:113][727]LogBlueprintUserMessages: [BP_CharAle_C_0] 2600.0
+[2024.07.24-20.06.05:113][727]PIE: Server logged in
+[2024.07.24-20.06.05:113][727]PIE: Play in editor total start time 0,112 seconds.
+[2024.07.24-20.06.05:119][727]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.06.05:554][749]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Ale/BP_CharAle.BP_CharAle_C:ExecuteUbergraph_BP_CharAle'!
+[2024.07.24-20.06.05:554][749]LogScript: Warning: Script Msg called by: BP_CharAle_C /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies:PersistentLevel.BP_CharAle_C_0
+[2024.07.24-20.06.06:103][782]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.06.10:019][ 17]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.10:036][ 18]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.10:119][ 23]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.10:119][ 23]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.12:486][165]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.12:687][177]LogBlueprintUserMessages: [AIC_EnemyBase_C_0] Sense Sight
+[2024.07.24-20.06.13:104][202]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.13:104][202]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.22:423][758]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.22:650][766]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.22:650][766]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.22:668][767]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.22:729][771]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.22:729][771]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.24:346][868]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.24:346][868]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.24:362][869]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.24:362][869]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.24:379][870]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.24:379][870]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.24:396][871]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.24:396][871]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.24:412][872]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.24:412][872]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.24:429][873]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.06.24:429][873]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.06.25:988][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.06.25:988][963]LogWorld: BeginTearingDown for /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.06.25:989][963]LogWorld: UWorld::CleanupWorld for TestMapEnemies, bSessionEnded=true, bCleanupResources=true
+[2024.07.24-20.06.25:989][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.06.25:993][963]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.24-20.06.25:999][963]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.06.26:017][963]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.06.26:018][963]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2024.07.24-20.06.26:018][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.24-20.06.26:021][963]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2024.07.24-20.06.26:029][963]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.07.24-20.06.26:135][964]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.07.24-20.06.27:500][ 43]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.24-20.06.27:532][ 43]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.24-20.06.27:532][ 43]PIE: New page: PIE session: TestMapEnemies (24 jul. 2024 9:06:27)
+[2024.07.24-20.06.27:532][ 43]LogPlayLevel: Creating play world package: /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.06.27:538][ 43]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006672s)
+[2024.07.24-20.06.27:538][ 43]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemies/TestMapEnemies.TestMapEnemies to /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies (0.006702s)
+[2024.07.24-20.06.27:555][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.07.24-20.06.27:556][ 43]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.06.27:556][ 43]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.06.27:557][ 43]LogAIModule: Creating AISystem for world TestMapEnemies
+[2024.07.24-20.06.27:557][ 43]LogPlayLevel: PIE: World Init took: (0.000849s)
+[2024.07.24-20.06.27:557][ 43]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2024.07.24-20.06.27:557][ 43]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.24-20.06.27:557][ 43]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.24-20.06.27:557][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.24-20.06.27:557][ 43]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.24-20.06.27:557][ 43]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.24-20.06.27:557][ 43]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.24-20.06.27:557][ 43]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.24-20.06.27:557][ 43]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.24-20.06.27:558][ 43]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.24-20.06.27:558][ 43]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.24-20.06.27:558][ 43]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.24-20.06.27:560][ 43]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.24-20.06.27:577][ 43]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.24-20.06.27:577][ 43]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.24-20.06.27:577][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.24-20.06.27:577][ 43]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.24-20.06.27:578][ 43]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2024.07.24-20.06.27:578][ 43]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2024.07.24-20.06.27:579][ 43]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2024.07.24-20.06.27:579][ 43]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2024.07.24-20.06.27:580][ 43]LogInit: FAudioDevice initialized with ID 6.
+[2024.07.24-20.06.27:580][ 43]LogAudio: Display: Audio Device (ID: 6) registered with world 'TestMapEnemies'.
+[2024.07.24-20.06.27:580][ 43]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.24-20.06.27:582][ 43]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.24-20.06.27:594][ 43]LogWorld: Bringing World /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies up for play (max tick rate 60) at 2024.07.24-14.06.27
+[2024.07.24-20.06.27:601][ 43]LogWorld: Bringing up level for play took: 0.017835
+[2024.07.24-20.06.27:603][ 43]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.07.24-20.06.27:613][ 43]LogBlueprintUserMessages: [BP_CharAle_C_0] 2600.0
+[2024.07.24-20.06.27:613][ 43]PIE: Server logged in
+[2024.07.24-20.06.27:614][ 43]PIE: Play in editor total start time 0,103 seconds.
+[2024.07.24-20.06.27:619][ 43]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.06.27:897][ 56]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Ale/BP_CharAle.BP_CharAle_C:ExecuteUbergraph_BP_CharAle'!
+[2024.07.24-20.06.27:897][ 56]LogScript: Warning: Script Msg called by: BP_CharAle_C /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies:PersistentLevel.BP_CharAle_C_0
+[2024.07.24-20.06.28:595][ 98]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.06.35:176][488]LogBlueprintUserMessages: [AIC_EnemyBase_C_0] Sense Sight
+[2024.07.24-20.06.38:228][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.06.38:228][668]LogWorld: BeginTearingDown for /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.06.38:228][668]LogWorld: UWorld::CleanupWorld for TestMapEnemies, bSessionEnded=true, bCleanupResources=true
+[2024.07.24-20.06.38:229][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.06.38:232][668]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.24-20.06.38:239][668]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.06.38:255][668]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.06.38:256][668]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2024.07.24-20.06.38:256][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.24-20.06.38:257][668]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2024.07.24-20.06.38:266][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2024.07.24-20.06.38:370][669]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.07.24-20.06.39:088][709]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.24-20.06.39:120][709]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.24-20.06.39:120][709]PIE: New page: PIE session: TestMapEnemies (24 jul. 2024 9:06:39)
+[2024.07.24-20.06.39:168][709]LogPlayLevel: Creating play world package: /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.06.39:190][709]LogPlayLevel: PIE: StaticDuplicateObject took: (0.022153s)
+[2024.07.24-20.06.39:190][709]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemies/TestMapEnemies.TestMapEnemies to /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies (0.022255s)
+[2024.07.24-20.06.39:210][709]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2024.07.24-20.06.39:211][709]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.06.39:211][709]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.06.39:212][709]LogAIModule: Creating AISystem for world TestMapEnemies
+[2024.07.24-20.06.39:212][709]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2024.07.24-20.06.39:212][709]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2024.07.24-20.06.39:212][709]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.24-20.06.39:212][709]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.24-20.06.39:212][709]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.24-20.06.39:212][709]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.24-20.06.39:212][709]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.24-20.06.39:212][709]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.24-20.06.39:212][709]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.24-20.06.39:212][709]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.24-20.06.39:213][709]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.24-20.06.39:213][709]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.24-20.06.39:213][709]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.24-20.06.39:215][709]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.24-20.06.39:232][709]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.24-20.06.39:232][709]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.24-20.06.39:232][709]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.24-20.06.39:232][709]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.24-20.06.39:233][709]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2024.07.24-20.06.39:233][709]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2024.07.24-20.06.39:236][709]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2024.07.24-20.06.39:236][709]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2024.07.24-20.06.39:236][709]LogInit: FAudioDevice initialized with ID 7.
+[2024.07.24-20.06.39:236][709]LogAudio: Display: Audio Device (ID: 7) registered with world 'TestMapEnemies'.
+[2024.07.24-20.06.39:236][709]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.24-20.06.39:238][709]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.24-20.06.39:250][709]LogWorld: Bringing World /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies up for play (max tick rate 60) at 2024.07.24-14.06.39
+[2024.07.24-20.06.39:256][709]LogWorld: Bringing up level for play took: 0.017998
+[2024.07.24-20.06.39:259][709]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.07.24-20.06.39:269][709]LogBlueprintUserMessages: [BP_CharAle_C_0] 2600.0
+[2024.07.24-20.06.39:269][709]PIE: Server logged in
+[2024.07.24-20.06.39:270][709]PIE: Play in editor total start time 0,171 seconds.
+[2024.07.24-20.06.39:274][709]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.06.39:609][725]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Ale/BP_CharAle.BP_CharAle_C:ExecuteUbergraph_BP_CharAle'!
+[2024.07.24-20.06.39:609][725]LogScript: Warning: Script Msg called by: BP_CharAle_C /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies:PersistentLevel.BP_CharAle_C_0
+[2024.07.24-20.06.40:256][764]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.06.45:210][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.06.45:210][ 58]LogWorld: BeginTearingDown for /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.06.45:210][ 58]LogWorld: UWorld::CleanupWorld for TestMapEnemies, bSessionEnded=true, bCleanupResources=true
+[2024.07.24-20.06.45:211][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.06.45:214][ 58]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.24-20.06.45:220][ 58]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.06.45:234][ 58]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.06.45:236][ 58]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2024.07.24-20.06.45:236][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.24-20.06.45:237][ 58]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2024.07.24-20.06.45:246][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.07.24-20.06.45:353][ 59]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.07.24-20.06.49:029][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.06.49:074][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.06.50:819][374]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Felipe/BP_Sword.BP_Sword
+[2024.07.24-20.06.50:820][374]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.06.50:820][374]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.07.12:950][657]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ale/BP_Dummie.BP_Dummie
+[2024.07.24-20.07.12:951][657]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.07.12:951][657]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.07.58:247][338]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.07.24-20.07.58:247][338]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.07.24-20.08.09:469][995]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.08.09:513][996]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.08.10:972][ 78]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.08.11:957][131]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Ale/Arma/BP_Yari.BP_Yari
+[2024.07.24-20.08.11:957][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.08.11:957][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.08.49:037][293]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.07.24-20.09.02:343][ 89]BlueprintLog: New page: Compile BP_Sword
+[2024.07.24-20.09.02:413][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2024.07.24-20.09.03:466][136]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.07.24-20.09.03:630][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Felipe/BP_Sword" FILE="../../../../../../GitHub Projects/PathOfShinobi-AAA/PathOfShinobiAAA/Content/Felipe/BP_Sword.uasset" SILENT=true
+[2024.07.24-20.09.03:645][136]LogSavePackage: Moving output files for package: /Game/Felipe/BP_Sword
+[2024.07.24-20.09.03:647][136]LogSavePackage: Moving '../../../../../../GitHub Projects/PathOfShinobi-AAA/PathOfShinobiAAA/Saved/BP_Sword408FC13A46C47C44D8F1A19243ECFC31.tmp' to '../../../../../../GitHub Projects/PathOfShinobi-AAA/PathOfShinobiAAA/Content/Felipe/BP_Sword.uasset'
+[2024.07.24-20.09.03:659][136]LogFileHelpers: InternalPromptForCheckoutAndSave took 192 ms (total: 774 ms)
+[2024.07.24-20.09.03:662][136]AssetCheck: New page: Asset Save: BP_Sword
+[2024.07.24-20.09.03:662][136]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Felipe/BP_Sword.BP_Sword
+[2024.07.24-20.09.05:079][211]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.24-20.09.05:116][211]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.24-20.09.05:116][211]PIE: New page: PIE session: TestMapEnemies (24 jul. 2024 9:09:05)
+[2024.07.24-20.09.05:116][211]LogPlayLevel: Creating play world package: /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.09.05:123][211]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006736s)
+[2024.07.24-20.09.05:123][211]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemies/TestMapEnemies.TestMapEnemies to /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies (0.006769s)
+[2024.07.24-20.09.05:147][211]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.07.24-20.09.05:149][211]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.09.05:149][211]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.09.05:150][211]LogAIModule: Creating AISystem for world TestMapEnemies
+[2024.07.24-20.09.05:150][211]LogPlayLevel: PIE: World Init took: (0.000870s)
+[2024.07.24-20.09.05:150][211]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2024.07.24-20.09.05:150][211]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.24-20.09.05:150][211]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.24-20.09.05:150][211]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.24-20.09.05:150][211]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.24-20.09.05:150][211]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.24-20.09.05:150][211]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.24-20.09.05:150][211]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.24-20.09.05:150][211]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.24-20.09.05:151][211]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.24-20.09.05:151][211]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.24-20.09.05:151][211]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.24-20.09.05:153][211]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.24-20.09.05:171][211]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.24-20.09.05:171][211]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.24-20.09.05:171][211]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.24-20.09.05:171][211]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.24-20.09.05:172][211]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2024.07.24-20.09.05:172][211]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2024.07.24-20.09.05:174][211]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2024.07.24-20.09.05:174][211]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2024.07.24-20.09.05:174][211]LogInit: FAudioDevice initialized with ID 8.
+[2024.07.24-20.09.05:174][211]LogAudio: Display: Audio Device (ID: 8) registered with world 'TestMapEnemies'.
+[2024.07.24-20.09.05:174][211]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.24-20.09.05:178][211]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.24-20.09.05:190][211]LogWorld: Bringing World /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies up for play (max tick rate 60) at 2024.07.24-14.09.05
+[2024.07.24-20.09.05:197][211]LogWorld: Bringing up level for play took: 0.018646
+[2024.07.24-20.09.05:200][211]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2024.07.24-20.09.05:210][211]LogBlueprintUserMessages: [BP_CharAle_C_0] 2600.0
+[2024.07.24-20.09.05:210][211]PIE: Server logged in
+[2024.07.24-20.09.05:210][211]PIE: Play in editor total start time 0,12 seconds.
+[2024.07.24-20.09.05:215][211]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.09.05:674][222]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Ale/BP_CharAle.BP_CharAle_C:ExecuteUbergraph_BP_CharAle'!
+[2024.07.24-20.09.05:674][222]LogScript: Warning: Script Msg called by: BP_CharAle_C /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies:PersistentLevel.BP_CharAle_C_0
+[2024.07.24-20.09.06:398][264]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.09.06:447][267]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Ale/BP_CharAle.BP_CharAle_C:ExecuteUbergraph_BP_CharAle'!
+[2024.07.24-20.09.06:448][267]LogScript: Warning: Script Msg called by: BP_CharAle_C /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies:PersistentLevel.BP_CharAle_C_0
+[2024.07.24-20.09.10:078][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.09.10:078][478]LogWorld: BeginTearingDown for /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.09.10:078][478]LogWorld: UWorld::CleanupWorld for TestMapEnemies, bSessionEnded=true, bCleanupResources=true
+[2024.07.24-20.09.10:079][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.09.10:083][478]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.24-20.09.10:089][478]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.09.10:104][478]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.07.24-20.09.10:106][478]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2024.07.24-20.09.10:106][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.24-20.09.10:107][478]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8
+[2024.07.24-20.09.10:111][478]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.09.10:117][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.07.24-20.09.10:224][479]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2024.07.24-20.09.11:025][524]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.07.24-20.09.11:055][524]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.07.24-20.09.11:056][524]PIE: New page: PIE session: TestMapEnemies (24 jul. 2024 9:09:11)
+[2024.07.24-20.09.11:056][524]LogPlayLevel: Creating play world package: /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.09.11:063][524]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006903s)
+[2024.07.24-20.09.11:063][524]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Enemies/TestMapEnemies.TestMapEnemies to /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies (0.006936s)
+[2024.07.24-20.09.11:081][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2024.07.24-20.09.11:083][524]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.07.24-20.09.11:083][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.07.24-20.09.11:084][524]LogAIModule: Creating AISystem for world TestMapEnemies
+[2024.07.24-20.09.11:084][524]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2024.07.24-20.09.11:084][524]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2024.07.24-20.09.11:084][524]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.07.24-20.09.11:084][524]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.07.24-20.09.11:084][524]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.07.24-20.09.11:084][524]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.07.24-20.09.11:084][524]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.07.24-20.09.11:084][524]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.07.24-20.09.11:084][524]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.07.24-20.09.11:084][524]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.07.24-20.09.11:084][524]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.07.24-20.09.11:084][524]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.07.24-20.09.11:084][524]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.07.24-20.09.11:087][524]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.07.24-20.09.11:104][524]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.07.24-20.09.11:105][524]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.07.24-20.09.11:105][524]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.07.24-20.09.11:105][524]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.07.24-20.09.11:105][524]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2024.07.24-20.09.11:105][524]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2024.07.24-20.09.11:106][524]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2024.07.24-20.09.11:107][524]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2024.07.24-20.09.11:107][524]LogInit: FAudioDevice initialized with ID 9.
+[2024.07.24-20.09.11:107][524]LogAudio: Display: Audio Device (ID: 9) registered with world 'TestMapEnemies'.
+[2024.07.24-20.09.11:107][524]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.24-20.09.11:109][524]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.07.24-20.09.11:122][524]LogWorld: Bringing World /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies up for play (max tick rate 60) at 2024.07.24-14.09.11
+[2024.07.24-20.09.11:129][524]LogWorld: Bringing up level for play took: 0.018782
+[2024.07.24-20.09.11:131][524]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.07.24-20.09.11:141][524]LogBlueprintUserMessages: [BP_CharAle_C_0] 2600.0
+[2024.07.24-20.09.11:142][524]PIE: Server logged in
+[2024.07.24-20.09.11:142][524]PIE: Play in editor total start time 0,107 seconds.
+[2024.07.24-20.09.11:147][524]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.09.11:333][531]LogScript: Warning: Script Msg: Attempted to access index -1 from array 'CallFunc_GetOverlappingActors_OverlappingActors_1' of length 0 in '/Game/Ale/BP_CharAle.BP_CharAle_C:ExecuteUbergraph_BP_CharAle'!
+[2024.07.24-20.09.11:333][531]LogScript: Warning: Script Msg called by: BP_CharAle_C /Game/Enemies/UEDPIE_0_TestMapEnemies.TestMapEnemies:PersistentLevel.BP_CharAle_C_0
+[2024.07.24-20.09.12:132][579]LogBlueprintUserMessages: [AIC_EnemyBase_C_3] Sense Sight
+[2024.07.24-20.09.14:467][719]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.09.14:483][720]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.09.14:500][721]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.09.14:567][725]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.09.14:567][725]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.09.16:684][852]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.09.17:550][904]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Sight
+[2024.07.24-20.09.17:550][904]LogBlueprintUserMessages: [AIC_EnemyBase_C_5] Sense Damage
+[2024.07.24-20.09.18:717][974]LogBlueprintUserMessages: [AIC_EnemyBase_C_0] Sense Sight
+[2024.07.24-20.09.20:289][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.09.20:289][ 64]LogWorld: BeginTearingDown for /Game/Enemies/UEDPIE_0_TestMapEnemies
+[2024.07.24-20.09.20:289][ 64]LogWorld: UWorld::CleanupWorld for TestMapEnemies, bSessionEnded=true, bCleanupResources=true
+[2024.07.24-20.09.20:290][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.09.20:294][ 64]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.07.24-20.09.20:299][ 64]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.07.24-20.09.20:316][ 64]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.07.24-20.09.20:318][ 64]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2024.07.24-20.09.20:318][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.24-20.09.20:320][ 64]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9
+[2024.07.24-20.09.20:328][ 64]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2024.07.24-20.09.20:430][ 65]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.07.24-20.09.41:910][345]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
